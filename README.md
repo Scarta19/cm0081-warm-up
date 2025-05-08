@@ -7,3 +7,4 @@ Repository created for the course  CM0081 Automata and Formal Languages(2020-2)
 - Glasgow Haskell Compiler GHC 8.10.1
 - QuickCheck version used: 2.14.1
 - HLint version used: 3.1.6
+- Studying
